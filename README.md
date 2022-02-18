@@ -1,4 +1,4 @@
-### Hi there, I'm Prathamesh - aka Ninja Cat Coder 👋
+### Hi there, I'm Prathamesh - aka Ninja Hatori Cat Coder 👋
 
 ## I'm a Student, Learner and Developer!!
 
