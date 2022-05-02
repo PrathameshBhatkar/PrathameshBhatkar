@@ -1,6 +1,6 @@
 # Hi there, I'm Prathamesh Bhatkar - aka [Coding Circle][youtube] / [Ninja Hatori Cat Codr][grepper] 👋 
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCHzOI93T5ZZ4TqYJqz6WmYQ?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 
 
 ## I'm a Student and Developer!!
