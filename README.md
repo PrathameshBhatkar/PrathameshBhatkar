@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about ML and AL
+- 🥅 2022 Goals: Learn more about ML and AI
 - ⚡ Fun fact: I love to code and have fun to get that one bug out
 - 🎮 Check out the Games I've created: [Prathamesh Bhatkar](https://prathamesh-bhatkar.itch.io/)
 
