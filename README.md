@@ -13,8 +13,8 @@
 
 ### Connect with me:
 
-[![website](imgoutube-light.svg)](https://www.youtube.com/channel/UCHzOI93T5ZZ4TqYJqz6WmYQ#gh-light-mode-only)
-[![website](imgoutube-dark.svg)](https://www.youtube.com/channel/UCHzOI93T5ZZ4TqYJqz6WmYQ#gh-dark-mode-only)
+[![website](img/youtube-light.svg)](https://www.youtube.com/channel/UCHzOI93T5ZZ4TqYJqz6WmYQ#gh-light-mode-only)
+[![website](img/youtube-dark.svg)](https://www.youtube.com/channel/UCHzOI93T5ZZ4TqYJqz6WmYQ#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 ### Languages and Tools:
