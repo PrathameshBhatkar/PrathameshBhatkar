@@ -32,12 +32,11 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [Snake Kinematics Playthrough](https://www.youtube.com/watch?v=oi87EuIhkEY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCHzOI93T5ZZ4TqYJqz6WmYQ)
 
 ---
 
-[youtube]: https://youtube.com/codeSTACKr
+[youtube]: https://www.youtube.com/channel/UCHzOI93T5ZZ4TqYJqz6WmYQ
 [grepper]: https://www.codegrepper.com/profile/prathamesh-bhatkar
