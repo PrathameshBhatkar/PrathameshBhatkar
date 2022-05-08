@@ -32,6 +32,7 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Snake Kinematics game &lpar;time-lapse&rpar;](https://www.youtube.com/watch?v=QEz7JU5m_NY)
 - [Snake Kinematics Playthrough](https://www.youtube.com/watch?v=oi87EuIhkEY)
 <!-- YOUTUBE:END -->
 
