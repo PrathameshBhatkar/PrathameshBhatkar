@@ -32,6 +32,7 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Classes in python](https://www.youtube.com/watch?v=H9X5i1HpEE4)
 - [Different Operators in python in 60 seconds](https://www.youtube.com/watch?v=fGX_W5rIwrc)
 - [Snake Kinematics game &lpar;time-lapse&rpar;](https://www.youtube.com/watch?v=QEz7JU5m_NY)
 - [Snake Kinematics Playthrough](https://www.youtube.com/watch?v=oi87EuIhkEY)
