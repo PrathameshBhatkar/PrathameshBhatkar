@@ -32,6 +32,7 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [How to prank your friends with just 15 lines of code || Python Very EASY](https://www.youtube.com/watch?v=c0KTmLO_VPs)
 - [Classes in python For: beginners Python data structures](https://www.youtube.com/watch?v=H9X5i1HpEE4)
 - [Different Operators in python in 60 seconds](https://www.youtube.com/watch?v=fGX_W5rIwrc)
 - [Snake Kinematics game &lpar;time-lapse&rpar;](https://www.youtube.com/watch?v=QEz7JU5m_NY)
