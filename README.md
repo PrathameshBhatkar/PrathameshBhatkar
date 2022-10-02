@@ -32,11 +32,11 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Binary Tree algorithm | Explanation | Python | Coding Circle](https://www.youtube.com/watch?v=E-jkUoDta8g)
 - [Binary algorithm demo | Python | Coding Circle](https://www.youtube.com/watch?v=5znTLfJgnJE)
 - [Create a window in python | Very easy | For beginners | pygame](https://www.youtube.com/watch?v=BemsATBLTxA)
 - [How to prank your friends with just 15 lines of code || Python Very EASY](https://www.youtube.com/watch?v=c0KTmLO_VPs)
 - [Classes in python For: beginners Python data structures](https://www.youtube.com/watch?v=H9X5i1HpEE4)
-- [Different Operators in python in 60 seconds](https://www.youtube.com/watch?v=fGX_W5rIwrc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCHzOI93T5ZZ4TqYJqz6WmYQ)
