@@ -32,7 +32,7 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [Learn How The Binary Tree Algorithm Works In Less Than 10 Minutes!](https://www.youtube.com/watch?v=E-jkUoDta8g)
+- [How Binary Tree Algorithm Works | In Less Than 10 Minutes!](https://www.youtube.com/watch?v=E-jkUoDta8g)
 - [Binary algorithm demo | Python | Coding Circle](https://www.youtube.com/watch?v=5znTLfJgnJE)
 - [Create a window in python | Very easy | For beginners | pygame](https://www.youtube.com/watch?v=BemsATBLTxA)
 - [How to prank your friends with just 15 lines of code || Python Very EASY](https://www.youtube.com/watch?v=c0KTmLO_VPs)
