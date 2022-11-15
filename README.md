@@ -32,7 +32,7 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [10 functions of list that you should know about!](https://www.youtube.com/watch?v=0kN5zmdFm6c)
+- [Python: 10 Functions Every Developer Should Know](https://www.youtube.com/watch?v=0kN5zmdFm6c)
 - [What does a binary tree really look like? | Python | Coding Circle | #shorts #subscribe](https://www.youtube.com/watch?v=kO8QjJCPofw)
 - [How Binary Tree Algorithm Works | In Less Than 10 Minutes!](https://www.youtube.com/watch?v=E-jkUoDta8g)
 - [Binary algorithm demo | Python | Coding Circle](https://www.youtube.com/watch?v=5znTLfJgnJE)
