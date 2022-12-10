@@ -32,11 +32,11 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [👀 Look &#39;Carefully&#39; to solve the problem 👀🙄](https://www.youtube.com/watch?v=8o-xjPJF3dw)
 - [Get weather in python in 10 lines of code | code 10 lines per day | challenge | #shorts](https://www.youtube.com/watch?v=7lFWyqA97MI)
 - [Python: 10 Functions Every Developer Should Know](https://www.youtube.com/watch?v=0kN5zmdFm6c)
 - [What does a binary tree really look like? | Python | Coding Circle | #shorts #subscribe](https://www.youtube.com/watch?v=kO8QjJCPofw)
 - [How Binary Tree Algorithm Works | In Less Than 10 Minutes!](https://www.youtube.com/watch?v=E-jkUoDta8g)
-- [Binary algorithm demo | Python | Coding Circle](https://www.youtube.com/watch?v=5znTLfJgnJE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCHzOI93T5ZZ4TqYJqz6WmYQ)
