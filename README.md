@@ -32,7 +32,7 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [95% people fail to solve this python problem, Can you solve it?🤔](https://www.youtube.com/watch?v=8o-xjPJF3dw)
+- [Only 5% of people can solve this python problem !](https://www.youtube.com/watch?v=8o-xjPJF3dw)
 - [Get weather in python in 10 lines of code | code 10 lines per day | challenge | #shorts](https://www.youtube.com/watch?v=7lFWyqA97MI)
 - [Python: 10 Functions Every Developer Should Know](https://www.youtube.com/watch?v=0kN5zmdFm6c)
 - [What does a binary tree really look like? | Python | Coding Circle | #shorts #subscribe](https://www.youtube.com/watch?v=kO8QjJCPofw)
