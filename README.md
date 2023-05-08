@@ -32,7 +32,7 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [How to create a 3D cube in Python Pygame without using libraries!](https://www.youtube.com/watch?v=VnZKbhK9__I)
+- [3D graphics engine in python || Very easy || Python || Pygame](https://www.youtube.com/watch?v=VnZKbhK9__I)
 - [Text to Audio In 🐍 Python in 4 lines of code! #shorts #programming  #python #coding #pycharm #tts](https://www.youtube.com/watch?v=VuLm1-crNbs)
 - [Can you answer this? #python #shorts](https://www.youtube.com/watch?v=8o-xjPJF3dw)
 - [Get weather in python in 10 lines of code | code 10 lines per day | challenge | #shorts](https://www.youtube.com/watch?v=7lFWyqA97MI)
