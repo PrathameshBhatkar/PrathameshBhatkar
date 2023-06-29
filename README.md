@@ -32,11 +32,11 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Human vs AI Whos better at This game #Python #shorts](https://www.youtube.com/watch?v=KCYXm-L-j0Y)
 - [Human vs AI Whos better at This game #Python #shorts #short](https://www.youtube.com/watch?v=mBXhwl8e4KA)
 - [3D graphics engine in python || Very easy || Python || Pygame](https://www.youtube.com/watch?v=VnZKbhK9__I)
 - [Text to Audio In 🐍 Python in 4 lines of code! #shorts #programming  #python #coding #pycharm #tts](https://www.youtube.com/watch?v=VuLm1-crNbs)
 - [Can you answer this? #python #shorts](https://www.youtube.com/watch?v=8o-xjPJF3dw)
-- [Get weather in python in 10 lines of code | code 10 lines per day | challenge | #shorts](https://www.youtube.com/watch?v=7lFWyqA97MI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCHzOI93T5ZZ4TqYJqz6WmYQ)
